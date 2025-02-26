@@ -1,90 +1,125 @@
-<h1 align="center">Hi 👋, I'm Ahmed</h1>
-<h3 align="center">Just another coder trying to make the world a better place, one bug at a time</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed5939&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed5939" /> </p>
+<div align="center">
+  
+# 🚨 WARNING: EXTREME DEVELOPER DETECTED 🚨
 
-<p align="left"> 
-  <a href="https://twitter.com/ahmadsabir11" target="blank">
-    <img src="https://img.shields.io/twitter/follow/ahmadsabir11?logo=twitter&style=for-the-badge" alt="ahmadsabir11" />
-  </a> 
-</p>
+![Mind Blown](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
 
-- 🔭 Currently knee-deep in building a **School ERP System**—because who doesn't love a good challenge with a side of occasional frustration?
+</div>
 
-- 🌱 Learning **GO** and **HTMX** to add more tools to the ever-growing toolbox. It’s like collecting Pokémon, but for coders.
+## 👑 AHMED: DESTROYER OF BUGS, CONQUEROR OF CODE
 
-- 💬 Feel free to ask me about **Next.js, cool web development tricks**, or even how to stay sane while debugging—spoiler: sanity is overrated.
+I don't always code, but when I do, **production servers tremble in fear**.
 
-- ⚡ Fun fact: **Bugs aren’t just inevitable, they’re job security. We create problems today so we can fix them tomorrow.** 😏
+[![My Awesomeness Level](https://img.shields.io/badge/Awesomeness-OVER%209000-ff69b4?style=for-the-badge)](https://github.com/ahmed5939)
+[![Coffee Consumed](https://img.shields.io/badge/Coffee%20Consumed-INFINITE-brown?style=for-the-badge&logo=buy-me-a-coffee)](https://github.com/ahmed5939)
+[![Bugs Squashed](https://img.shields.io/badge/Bugs%20Squashed-ALL%20OF%20THEM-success?style=for-the-badge&logo=codacy)](https://github.com/ahmed5939)
 
-- 🎬 When I’m not coding, I’m either catching up on movies, contemplating life’s big questions, or casually planning my next big project (that I’ll definitely start... eventually).
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/ahmadsabir11" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmadsabir11" height="30" width="40" />
-  </a>
-</p>
+## 🔥 MY CODING JOURNEY: A TALE OF GLORY AND CAFFEINE
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://vercel.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original-wordmark.svg" alt="vercel" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://golang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://redis.io" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a> 
-</p>
+- **2019**: Wrote my first "Hello World" program. The world was never the same.
+- **2020**: Learned JavaScript. Electrons in processors literally begged for mercy.
+- **2021**: Mastered React. Facebook offered to sell me their company. I politely declined.
+- **2022**: Started using Next.js. Time travel was accidentally invented.
+- **2023**: Touched GO. The entire Google engineering team sent me a handwritten thank you note.
+- **NOW**: Building a School ERP System that will probably achieve sentience and enroll itself in college.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed5939&show_icons=true&locale=en&layout=compact" alt="ahmed5939" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmed5939&show_icons=true&locale=en" alt="ahmed5939" /></p>
+## 💻 MY RELATIONSHIP WITH PROGRAMMING LANGUAGES
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed5939&" alt="ahmed5939" /></p>
+```javascript
+// The secret code that powers my existence
+function ahmed() {
+  let mood = caffeine > 3 ? "UNSTOPPABLE" : "Still pretty awesome";
+  
+  if (dateTime.isMonday()) {
+    return "Even my bugs have bugs today";
+  }
+  
+  try {
+    solveAllWorldProblems();
+  } catch (error) {
+    return "Will fix after lunch";
+  }
+  
+  return "It works on my machine! ¯\\_(ツ)_/¯";
+}
+```
+
+---
+
+## 🛠️ TECHNOLOGIES I USE TO BEND REALITY
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="60" height="60" alt="Next.js" />
+      <br>Next.js
+      <br><small><i>Time travel included</i></small>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="60" height="60" alt="React" />
+      <br>React
+      <br><small><i>DOM elements fear me</i></small>
+    </td>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="60" height="60" alt="GO" />
+      <br>GO
+      <br><small><i>Still learning, still dangerous</i></small>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 MY GITHUB STATS (PREPARE TO BE HUMBLED)
+
+<div align="center">
+  
+![Stats That Don't Do Me Justice](https://github-readme-stats.vercel.app/api?username=ahmed5939&show_icons=true&theme=radical&title_color=FF00FF&include_all_commits=true&count_private=true)
+
+<br>
+
+### 👆 Actual footage of my commits destroying technical debt
+
+</div>
+
+---
+
+## 🏆 MY ACHIEVEMENTS
+
+- **Made a printer work on the first try** (Still under FBI investigation for possible witchcraft)
+- **Fixed a bug by turning it off and on again** (Now known as the "Ahmed Maneuver" in 17 countries)
+- **Successfully explained what I do for a living to my grandma** (She still thinks I fix computers)
+- **Wrote code so clean** that it was mistaken for a minimalist art installation
+- **Found a use for jQuery** in 2023 (Currently in witness protection)
+
+---
+
+## 💭 THOUGHTS THAT KEEP ME UP AT NIGHT
+
+- Why is it called a "bug" and not a "code surprise"?
+- Is a hotdog a sandwich? Is cereal a soup?
+- If I create a program that makes programming languages, am I a grandparent when someone codes with it?
+- Why do we park in driveways and drive on parkways?
+- When I delete a line of code and everything works better, am I a coding genius or the problem?
+
+---
+
+## 📬 WANT TO JOIN MY CODING ADVENTURES?
+
+**WARNING**: Side effects of collaborating with me may include: spontaneous laughter, excessive caffeine consumption, using "Have you tried turning it off and on again?" unironically, and the ability to talk to rubber ducks.
+
+[![Twitter: Not Where I Share My Best Code Jokes](https://img.shields.io/badge/Twitter-Mostly%20Memes-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/ahmadsabir11)
+
+---
+
+<div align="center">
+  
+### "In my code, there are no bugs – only undocumented features waiting to be discovered."
+
+![Deal With It](https://media.giphy.com/media/2lfllWGtBaXOSrErQb/giphy.gif)
+
+</div>
